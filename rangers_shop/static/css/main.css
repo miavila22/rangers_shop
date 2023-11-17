@@ -1,0 +1,11 @@
+/* Shop Page CSS */
+.shop-header {
+    background-image: url("https://media.tenor.com/xIg29aFM-QUAAAAC/jujutsu-kaisen-season-2.gif");
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+.shop-stats {
+    color: white;
+}
